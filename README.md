@@ -1,4 +1,4 @@
-# python log analyzer 
+# Python log analyzer 
 
 ## Turning messy reality into structured information.
 
