@@ -2,15 +2,16 @@
 
 ## Turning messy reality into structured information.
 
-- counts info error and others frome log file.
-- takes messy log file .
-- after tranformation you'll get organized counts  
+- Gives the insights from messy data
+- Counts info error and others from log file.
+- Takes messy log file .
+- After tranformation you'll get organized counts  
   of  everything like errors, info and other
-- there are three main function to process the log 
+- There are three main function to process the log 
   file and give a clean output.
-- the first function takes log file and return the 
+- The first function takes log file and return the 
   list of strings.
-- the second function counts the frequency of     
+- The second function counts the frequency of     
   words with conditionals like error  eg. 
-- the third funtion prints the output in the clean 
+- The third function prints the output in the clean 
   and organized way 
