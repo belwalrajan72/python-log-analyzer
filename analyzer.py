@@ -19,8 +19,8 @@ test_list = ["INFO",  "User",  "logged", "in",
 "ERROR", "Database", "timeout",
 "Info", "this", "is", "a", "new" "line" ]  
 
-# lines = read_logs("C:/Users/belwa/OneDrive/Desktop/python_log_analyzer/python-log-analyzer/sample.log")
-lines = test_list
+lines = read_logs("C:/Users/belwa/OneDrive/Desktop/python_log_analyzer/python-log-analyzer/sample.log")
+# lines = test_list
 def count_log_levels(lines):
      dictionary = {}
      if isinstance(lines, list) and lines != None :
